@@ -1,0 +1,26 @@
+{
+  "name": "pr-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielJGB/pr-scrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielJGB/pr-scrapper/issues"
+  },
+  "homepage": "https://github.com/gabrielJGB/pr-scrapper#readme",
+  "dependencies": {
+    "chromium": "^3.0.3",
+    "express": "^4.18.2",
+    "jsdom": "^21.1.0",
+    "puppeteer": "^19.7.4"
+  }
+}
